@@ -13,7 +13,11 @@ Finally, when you click into either the train or test folder, we see that there 
 
 These are each different classes that our learning model can output, indicating a multi-class classification problem rather than binary classification.
 
-### Output:
-- loss: 1.0015 
-- categorical_accuracy: 0.5378
-- auc: 0.7116
+## Output:
+
+### Classification Report:
+[!ALT TEXT](https://github.com/SaifurRR/Classification-Kaggle-Covid-19-Image-Dataset-/blob/main/classification_report.jpeg)
+
+### Model Accuracy:
+[!ALT TEXT](https://github.com/SaifurRR/Classification-Kaggle-Covid-19-Image-Dataset-/blob/main/model_accuracy.jpeg)
+
