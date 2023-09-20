@@ -11,4 +11,9 @@ Finally, when you click into either the train or test folder, we see that there 
 -Normal
 -Viral Pneumonia
 
-These are each a different class that our learning model can output, indicating a multi-class classification problem rather than binary classification.
+These are each different classes that our learning model can output, indicating a multi-class classification problem rather than binary classification.
+
+### Output:
+- loss: 1.0015 
+- categorical_accuracy: 0.5378
+- auc: 0.7116
