@@ -16,8 +16,8 @@ These are each different classes that our learning model can output, indicating 
 ## Output:
 
 ### Classification Report:
-[!ALT TXT](https://github.com/SaifurRR/Classification-Kaggle-Covid-19-Image-Dataset-/blob/main/classification_report.jpeg)
+![ALT TEXT](https://github.com/SaifurRR/Classification-Kaggle-Covid-19-Image-Dataset-/blob/main/classification_report.jpeg)
 
 ### Model Accuracy:
-[!ALT TXT](https://github.com/SaifurRR/Classification-Kaggle-Covid-19-Image-Dataset-/blob/main/model_accuracy.jpeg)
+![ALT TEXT](https://github.com/SaifurRR/Classification-Kaggle-Covid-19-Image-Dataset-/blob/main/model_accuracy.jpeg)
 
